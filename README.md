@@ -12,7 +12,7 @@ criado por Peter Norvig, descrito em seu texto
 Clique no link abaixo para executar o Jupyter Notebook
 na plataforma Google Colab sem instalar nada em sua máquina:
 
-https://colab.research.google.com/github/pythonfluente/gambiconf2024/blob/lispy.ipynb
+https://colab.research.google.com/github/lispylab/cerrado/blob/lispy.ipynb
 
 ## Rodando na linha de comando
 
